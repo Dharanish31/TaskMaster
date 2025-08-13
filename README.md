@@ -1,4 +1,4 @@
-# Eventify
+# TaskMaster
 This project is an event management system that allows users to browse available events, make reservations, and cancel their bookings. This repository is a group project in the course of "Special Topics in Web Programming"
 
 
@@ -10,35 +10,12 @@ This project is an event management system that allows users to browse available
 
 ## 🔹 Features
 - User Authentication (JWT - Role-based access control)
-- Event Listing & Booking System
+- Task Listing & Task System
 - Admin Panel (Manage Events & View Statistics)
 - Dashboard with Charts (Bar, Pie & Line charts)
 - Email Notifications (Optional)
 
-🚀 Setup & Installation
-1. Clone the Repository
-      git clone https://github.com/your-username/EventManagementApp.git
-      cd EventManagementApp
-   
-3. Backend Setup (Spring Boot)
-    1. 
-    2. 
-    3. 
 
- 4. Frontend Setup (React)
-    1. Navigate to the `frontend` directory.
-    2. Install packages:<br>
-           ```npm i mdb-react-ui-kit --legacy-peer-deps (package 1)```<br>
-           ```npm install @mui/material @emotion/react @emotion/styled --legacy-peer-deps (package 2)```
-    4. Install dependencies:
-          npm install
-    5. Start the React app:
-          npm start
 
-👥 Contribution Guidelines
-- Use feature branches and submit Pull Requests (PRs).
-- Always run `git pull` before starting new work.
-- Follow code style guidelines and document changes properly.
 
-🚀 **Let's build it together!**
 
