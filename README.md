@@ -5,7 +5,7 @@ This project is an Task management system that allows users to browse available 
 🔹 Tech Stack
 - Back-end: Spring Boot + Spring Security (JWT)
 - Front-end: React + React Router
-- Database: MySQL or PostgreSQL
+- Database: MySQL or PostgreSQl
 - Charts & Analytics: Recharts
 
 ## 🔹 Features
